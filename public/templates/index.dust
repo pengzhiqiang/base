@@ -1,0 +1,14 @@
+{>"master/layout" /}
+
+{<title}{/title}
+{<headlink}
+    <link rel="stylesheet" href={#tagcss name="index.css"/} />
+{/headlink}
+
+{<body}
+ 666
+{/body}
+
+{<footscript}
+    <script type="text/javascript" src='{#tagjs name="index.js"/}'></script>
+{/footscript}
